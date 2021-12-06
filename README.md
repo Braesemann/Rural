@@ -23,7 +23,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
   - official_statistics
     - Country- and regional level data from World Bank, OECD, and Global Data lab (with and without imputations of missing values)
 
-- Code 
+- Code (to reproduce figures from the paper "The polarisation of remote work")
   - Code to reproduce figures 1, 2, and 3 of the main text
   - Code to reproduce figures S4, S5, S17, S18, S19 from the supplement
 
