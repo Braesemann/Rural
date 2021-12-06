@@ -1,23 +1,16 @@
-# The polarisation of remote work
+# ICTs and the urban-rural divide: can online labour platforms bridge the gap?
 
-Code and data to produce figures and replicate results of the paper 'The polarisation of remote work'. 
+__Please note__: The data to reproduce the figures in the paper and more data to extend the analysis can be found here. They are a copy of the following repository:
+
+https://github.com/Braesemann/remotework
+
+In this project, we have conducted a spatial analysis of the national and subnational economic geographies of online labour markets, not only in the United States, but on a gloabl level in more than 130 countries.
 
 __Please cite as__: _Braesemann, Stephany, Teutloff, Kässi, Graham, Lehdonvirta (2021) The polarisation of remote work. SocArXiv Preprint (August 28, 2021). https://doi.org/10.31235/osf.io/q8a96._ 
 
 Available online:
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913257
-
-
-### Description
-
-**Last modified**: 28th August 2021
-
-**Authors**: Fabian Braesemann, Fabian Stephany, Ole Teutloff, Otto Kässi, Mark Graham, Vili Lehdonvirta
-
-**Abstract**: The Covid-19 pandemic has led to the rise of remote work with consequences for the global division of work. 
-Remote work could connect labour markets, but it could also increase spatial polarisation. However, our understanding of the geographies of remote work is limited. Specifically, does remote work bring jobs to rural areas or is it concentrating in large cities, and how do skill requirements affect competition for jobs and wages? We use data from a fully remote labour market - an online labour platform - to show that remote work is polarised along three dimensions. First, countries are globally divided: North American, European, and South Asian remote workers attract most jobs, while many Global South countries participate only marginally. Secondly, remote jobs are pulled to urban regions; rural areas fall behind. Thirdly, remote work is polarised along the skill axis: workers with in-demand skills attract profitable jobs, while others face intense competition and obtain low wages.
-The findings suggest that remote work is shaped by agglomerative forces, which are deepening the gap between urban and rural areas. To make remote work an effective tool for rural development, it needs to be embedded in local skill-building and labour market programmes.
 
 ### Folder Structure
 
